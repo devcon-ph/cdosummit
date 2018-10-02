@@ -590,6 +590,14 @@ ul li {
     background: url(../images/partner/community-vrx.png) no-repeat center center/contain;
 }
 
+.partner .partner-box-obra {
+    background: url(../images/partner/community-obra.png) no-repeat center center/contain;
+}
+
+.partner .partner-box-hackm3 {
+    background: url(../images/partner/community-hackm3.jpg) no-repeat center center/contain;
+}
+
 .partner .partner-box-teapro {
     background: url(../images/partner/teapro.jpg) no-repeat center center/contain;
 }
