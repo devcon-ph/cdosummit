@@ -598,6 +598,10 @@ ul li {
     background: url(../images/partner/community-hackm3.jpg) no-repeat center center/contain;
 }
 
+.partner .partner-box-xcel {
+    background: url(../images/partner/community-xcel.png) no-repeat center center/contain;
+}
+
 .partner .partner-box-teapro {
     background: url(../images/partner/teapro.jpg) no-repeat center center/contain;
 }
