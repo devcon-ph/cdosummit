@@ -534,7 +534,7 @@ ul li {
 .partner .partner-box-rakethost {
   background: url(../images/partner/rakethost.png) no-repeat center center/contain;
 }
-.partner .partner-box-nestle {
+.partner .partner-box-nescafe {
   background: url(../images/partner/nescafe.png) no-repeat center center/contain;
 }
 
@@ -626,7 +626,11 @@ ul li {
 .partner .partner-box-streetby {
     background: url(../images/partner/streetby.png) no-repeat center center/contain;
 }
-/* 
+.partner .partner-box-canva {
+    background: url(../images/partner/canva.png) no-repeat center center/contain;
+}
+
+/*
  * 6.8 Section: FAQ
  */
 .faq .panel-heading {
