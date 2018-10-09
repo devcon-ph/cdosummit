@@ -623,6 +623,9 @@ ul li {
 .partner .partner-box-jobstreet {
     background: url(../images/partner/jobstreet.png) no-repeat center center/contain;
 }
+.partner .partner-box-streetby {
+    background: url(../images/partner/streetby.png) no-repeat center center/contain;
+}
 /* 
  * 6.8 Section: FAQ
  */
