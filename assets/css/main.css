@@ -248,6 +248,13 @@ ul li {
     background-color: rgba(0, 0, 0, 0.7);
 }
 
+.bg-image-4 {
+    background: url(../images/backgrounds/bg-4.jpg) no-repeat center center/cover;
+}
+.bg-image-4::before {
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
 @media (min-width: 768px) {
   .section {
     padding: 90px 0;
