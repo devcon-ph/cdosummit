@@ -636,6 +636,12 @@ ul li {
 .partner .partner-box-canva {
     background: url(../images/partner/canva.png) no-repeat center center/contain;
 }
+.partner .partner-box-businessweekmindanao {
+    background: url(../images/partner/businessweekmindanao.jpg) no-repeat center center/contain;
+}
+.partner .partner-box-mindanaodaily {
+    background: url(../images/partner/mindanaodaily.jpg) no-repeat center center/contain;
+}
 
 /*
  * 6.8 Section: FAQ
