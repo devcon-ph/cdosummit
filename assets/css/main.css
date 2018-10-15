@@ -642,6 +642,12 @@ ul li {
 .partner .partner-box-mindanaodaily {
     background: url(../images/partner/mindanaodaily.jpg) no-repeat center center/contain;
 }
+.partner .partner-box-parasathd {
+    background: url(../images/partner/parasathd.png) no-repeat center center/contain;
+}
+.partner .partner-box-sevenseas {
+    background: url(../images/partner/sevenseas.png) no-repeat center center/contain;
+}
 
 /*
  * 6.8 Section: FAQ
