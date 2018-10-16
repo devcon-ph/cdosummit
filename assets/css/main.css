@@ -651,6 +651,9 @@ ul li {
 .partner .partner-box-globe {
     background: url(../images/partner/globe.png) no-repeat center center/contain;
 }
+.partner .partner-box-dti {
+    background: url(../images/partner/dti.png) no-repeat center center/contain;
+}
 
 /*
  * 6.8 Section: FAQ
