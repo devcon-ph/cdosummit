@@ -654,6 +654,12 @@ ul li {
 .partner .partner-box-dti {
     background: url(../images/partner/dti.png) no-repeat center center/contain;
 }
+.partner .partner-box-specializedtechhub {
+    background: url(../images/partner/specializedtechhub.png) no-repeat center center/contain;
+}
+.partner .partner-box-celeteque {
+    background: url(../images/partner/celeteque.jpg) no-repeat center center/contain;
+}
 
 /*
  * 6.8 Section: FAQ
