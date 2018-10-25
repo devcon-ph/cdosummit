@@ -670,6 +670,14 @@ ul li {
     background: url(../images/partner/wpugph.png) no-repeat center center/contain;
 }
 
+.partner .partner-box-waterpy {
+    background: url(../images/partner/waterpy.png) no-repeat center center/contain;
+}
+
+.partner .partner-box-myphone {
+    background: url(../images/partner/myphone.png) no-repeat center center/contain;
+}
+
 /*
  * 6.8 Section: FAQ
  */
