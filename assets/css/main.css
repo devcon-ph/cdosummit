@@ -678,6 +678,10 @@ ul li {
     background: url(../images/partner/myphonelogo.png) no-repeat center center/contain;
 }
 
+.partner .partner-box-smart {
+    background: url(../images/partner/smart.png) no-repeat center center/contain;
+}
+
 /*
  * 6.8 Section: FAQ
  */
