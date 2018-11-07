@@ -682,6 +682,10 @@ ul li {
     background: url(../images/partner/smart.png) no-repeat center center/contain;
 }
 
+.partner .partner-box-blackshield {
+    background: url(../images/partner/blackshield.png) no-repeat center center/contain;
+}
+
 /*
  * 6.8 Section: FAQ
  */
