@@ -782,6 +782,29 @@ ul li {
 .partner .partner-box-ccssbo {
     background: url(../images/partner/community-ccssbo.png) no-repeat center center/contain;
 }
+
+.partner .partner-box-soce {
+    background: url(../images/partner/SOCE.jpg) no-repeat center center/contain;
+}
+.partner .partner-box-pixels {
+    background: url(../images/partner/PIXELS.jpg) no-repeat center center/contain;
+}
+.partner .partner-box-cssc {
+    background: url(../images/partner/CSSC.png) no-repeat center center/contain;
+}
+.partner .partner-box-ccsec {
+    background: url(../images/partner/CCSEC.jpg) no-repeat center center/contain;
+}
+.partner .partner-box-comsoc {
+    background: url(../images/partner/COMSOC.png) no-repeat center center/contain;
+}
+.partner .partner-box-itss {
+    background: url(../images/partner/ITSS.jpg) no-repeat center center/contain;
+}
+.partner .partner-box-citesbo {
+    background: url(../images/partner/CITESBO.jpg) no-repeat center center/contain;
+}
+
 .partner .partner-box-robogals {
     background: url(../images/partner/community-robogals.png) no-repeat center center/contain;
 }
@@ -818,6 +841,9 @@ ul li {
 }
 .partner .partner-box-pldt-enterprise {
     background: url(../images/partner/pldt-enterprise.jpg) no-repeat center center/contain;
+}
+.partner .partner-box-pldt {
+    background: url(../images/partner/pldt.png) no-repeat center center/contain;
 }
 .partner .partner-box-pldt-innolab {
     background: url(../images/partner/pldt-innolab.png) no-repeat center center/contain;
