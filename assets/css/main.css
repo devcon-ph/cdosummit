@@ -945,6 +945,12 @@ ul li {
 .partner .partner-box-blackshield {
     background: url(../images/partner/blackshield.png) no-repeat center center/contain;
 }
+.partner .partner-box-gmartv {
+    background: url(../images/partner/gmartv.png) no-repeat center center/contain;
+}
+.partner .partner-box-amihan {
+    background: url(../images/partner/amihan.png) no-repeat center center/contain;
+}
 
 /*
  * 6.8 Section: FAQ
