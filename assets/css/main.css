@@ -638,6 +638,10 @@ ul li {
   text-align: center;
 }
 
+.btn-primary:hover{
+  background-color: #af7dd3 !important;
+}
+
 .apply-part{
   /*position: absolute;*/
   width: 169px;
